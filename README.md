@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RibeiroPorto
 - 👀 I’m interested in general programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on everething i can
+- 💞️ I’m looking to collaborate on everything I'm able to.
 - 📫 How to reach me vinirj4@hotmail.com
 
 <!---
